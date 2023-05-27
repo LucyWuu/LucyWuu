@@ -5,6 +5,7 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
+    <img src="https://github.com/LucyWuu/LucyWuu/blob/main/header.png">
     <summary><h1 style="display: inline-block">Hi there👋, I'm Lucy!</h1></summary>
   </ul>
 </div>
