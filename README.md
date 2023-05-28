@@ -18,15 +18,18 @@
 
 
 <!--Intro start-->
-- 🎓 I’m currently studying <a href="https://uwaterloo.ca/future-students/programs/computer-science">Computer Science at the University of Waterloo</a>
 
-- 🤖 I’m currently working on **Web and Game Development**
+**I'm currently ...**
 
-- 🧊 I'm currently looking into **Three.js**
+- 🎓 Studying <a href="https://uwaterloo.ca/future-students/programs/computer-science">Computer Science at the University of Waterloo</a>
 
-- 🎨 I'm currently exploring Impasto Digital Painting
+- 💻 Working on **Web and Game Development**
 
-- 📫 Feel free to reach out to me at [lucy.wu1@uwaterloo.ca](lucy.wu1@uwaterloo.ca)!
+- 🧊 Looking into **Three.js**
+
+- 🎨 Exploring Impasto Digital Painting
+
+- 📫 Feel free to reach out to me at [lucy.wu1@uwaterloo.ca](lucy.wu1@uwaterloo.ca)
 
 <!--Intro end-->
 
@@ -60,6 +63,7 @@
 
 <!--icons and links-->
 <p align="center">
+<a href="mailto: lucy.wu1@uwaterloo.ca" target="blank"><img align="center" src="https://github.com/LucyWuu/LucyWuu/blob/main/outlook.png" alt="instagram" height="50" width="50"/></a>
 <a href="https://www.linkedin.com/in/lucywu1/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
 <a href="https://www.instagram.com/_lucy_wu_/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50"/></a>
 <a href="https://open.spotify.com/user/w671dztv9jracp9ahkyibqn9n?si=b59f34ed4f754b60" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Spotify_logo_without_text.svg" alt="instagram" height="50" width="50"/></a>
