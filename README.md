@@ -85,7 +85,6 @@
 
 <p align="center">
 <a href="https://github.com/LucyWuu">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucyWuu&count_private=true&hide=stars&show_icons=true&theme=vue&hide_border=true"/>
 </a>
 </p>
 
