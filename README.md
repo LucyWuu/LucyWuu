@@ -29,6 +29,8 @@
 
 - 🎨 Exploring Impasto Digital Painting
 
+- 🏘️ Helping my community with Environmental & Women-in-Tech initiatives.
+
 - 📫 Feel free to reach out to me at [lucy.wu1@uwaterloo.ca](mailto:lucy.wu1@uwaterloo.ca)
 
 <!--Intro end-->
