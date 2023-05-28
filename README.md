@@ -29,7 +29,7 @@
 
 - 🎨 Exploring Impasto Digital Painting
 
-- 📫 Feel free to reach out to me at [lucy.wu1@uwaterloo.ca](lucy.wu1@uwaterloo.ca)
+- 📫 Feel free to reach out to me at [lucy.wu1@uwaterloo.ca](mailto: lucy.wu1@uwaterloo.ca)
 
 <!--Intro end-->
 
