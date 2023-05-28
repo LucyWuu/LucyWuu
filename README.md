@@ -6,17 +6,33 @@
 <div id="user-content-toc">
   <ul align="center">
     <img src="https://github.com/LucyWuu/LucyWuu/blob/main/header.png">
-    <summary><h1 style="display: inline-block">Hi there👋, I'm Lucy!</h1></summary>
   </ul>
 </div>
 
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Learning is a Lifelong Process</h2></summary>
+    <summary><h2 style="display: inline-block">My Passion Lies in Exploration and Learning🌱</h2></summary>
   </ul>
 </div>
----
+
+
+<!--Intro start-->
+- 🎓 I’m currently studying <a href="https://uwaterloo.ca/future-students/programs/computer-science">Computer Science at the University of Waterloo</a>
+
+- 🤖 I’m currently working on **Web and Game Development**
+
+- 🧊 I'm currently looking into **Three.js**
+
+- 🎨 I'm currently exploring Impasto Digital Painting
+
+- 📫 Feel free to reach out to me at [lucy.wu1@uwaterloo.ca](lucy.wu1@uwaterloo.ca)!
+
+<!--Intro end-->
+
+<br/>
+
+#
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
@@ -31,7 +47,9 @@
   </a>
 </p>
 
+<br/>
 
+#
 <!-- Connect with me -->
 <!--h2 without bottom border-->
 <div id="user-content-toc">
@@ -44,7 +62,33 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/lucywu1/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
 <a href="https://www.instagram.com/_lucy_wu_/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50"/></a>
+<a href="https://open.spotify.com/user/w671dztv9jracp9ahkyibqn9n?si=b59f34ed4f754b60" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Spotify_logo_without_text.svg" alt="instagram" height="50" width="50"/></a>
 </p>
+
+
+<br/>
+
+#
+<!-- Github Stats -->
+<!--h2 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">My Github Stats📈</h2></summary>
+  </ul>
+</div>
+
+<p align="center">
+<a href="https://github.com/LucyWuu">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucyWuu&count_private=true&hide=stars&show_icons=true&theme=vue&hide_border=true"/>
+</a>
+</p>
+
+
+<!--- snake -->
+<div align="center">
+  <img  src="https://github.com/LucyWuu/LucyWuu/blob/output/github-contribution-grid-snake.gif"
+       alt="snake" /></a>
+</div>
 
 
 <!--horizontal divider(gradiant)-->
