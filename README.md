@@ -90,11 +90,6 @@
 </a>
 </p>
 
-<!--- snake -->
-<div align="center">
-  <img  src="https://github.com/LucyWuu/LucyWuu/blob/output/github-contribution-grid-snake.gif"
-       alt="snake " /></a>
-</div>
 
 
 
