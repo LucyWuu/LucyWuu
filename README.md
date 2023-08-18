@@ -85,7 +85,7 @@
 
 <p align="center">
 <a href="https://github.com/LucyWuu">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LucyWuu&hide_border=true"/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LucyWuu&theme=vue&hide_border=true"/>
    <!-- <img height="180em" src="https://github-readme-stats-lucywuu.vercel.app/api?username=LucyWuu&hide=stars&include_all_commits=true&private_count=true&show_icons=true&theme=vue&transparent=true&hide_border=true" /> -->
 </a>
 </p>
