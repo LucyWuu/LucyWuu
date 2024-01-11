@@ -23,9 +23,9 @@
 
 - 🎓 Studying <a href="https://uwaterloo.ca/future-students/programs/computer-science">Computer Science at the University of Waterloo</a>
 
-- 💻 Working on **Fullstack Development**
+- 💻 Working on **Full-stack Development**
 
-- 🧊 Looking into **Machine Learning**
+- 🧠 Looking into **Machine Learning**
 
 - 🎨 Exploring Impasto Digital Painting
 
