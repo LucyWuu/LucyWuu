@@ -23,7 +23,7 @@
 
 - 🎓 Studying <a href="https://uwaterloo.ca/future-students/programs/computer-science">Computer Science at the University of Waterloo</a>
 
-- 💻 Working on **Full-stack Development**
+- 💻 Working on **Backend Development**
 
 - 🧠 Looking into **Machine Learning**
 
