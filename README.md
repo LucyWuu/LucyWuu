@@ -23,13 +23,15 @@
 
 - 🎓 Studying <a href="https://uwaterloo.ca/future-students/programs/computer-science">Computer Science at the University of Waterloo</a>
 
-- 💻 Working on **Web and Game Development**
+- 💻 Working on **Fullstack Development**
 
-- 🧊 Looking into **Three.js**
+- 🧊 Looking into **Machine Learning**
 
 - 🎨 Exploring Impasto Digital Painting
 
 - 🏘️ Helping my community with Environmental & Women-in-Tech initiatives.
+
+- 🛠️ Building tech for social good @ [UW Blueprint](https://github.com/uwblueprint)
 
 - 📫 Feel free to reach out to me at [lucy.wu1@uwaterloo.ca](mailto:lucy.wu1@uwaterloo.ca)
 
